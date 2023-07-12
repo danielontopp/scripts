@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/danielontopp/c3ab3ffbc32ea41816edd43fe55d971f/raw/dee927e93dade157000e679676dfe27db244d9b0/gistfile1.txt", true))()
