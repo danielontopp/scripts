@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("Making A Hub, this script will not work.")
+game:GetService("Players").LocalPlayer:Kick("Making a hub, this script will not work.")
