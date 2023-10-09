@@ -1,3 +1,3 @@
 setclipboard("https://discord.com/invite/8x8dCWDzHQ")
-wait(3)
+wait(1)
 game:GetService("Players").LocalPlayer:Kick("Discord has been copied to your clipboard, join for new script.")
