@@ -1,3 +1,1 @@
-setclipboard("https://discord.com/invite/8x8dCWDzHQ")
-wait(1)
-game:GetService("Players").LocalPlayer:Kick("Discord has been copied to your clipboard, join for new script.")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/Key%20system",true))()
